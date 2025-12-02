@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <g fill="none" stroke="#22d3ee" stroke-width="4">
+    <rect x="120" y="180" width="960" height="360" rx="24"/>
+    <circle cx="280" cy="360" r="64"/>
+    <circle cx="920" cy="360" r="64"/>
+    <line x1="344" y1="360" x2="856" y2="360" />
+  </g>
+  <text x="50%" y="120" text-anchor="middle" fill="#f97316" font-size="48" font-family="Segoe UI, Roboto, sans-serif">PowerGen Solutions</text>
+  <text x="50%" y="170" text-anchor="middle" fill="#93c5fd" font-size="22" font-family="Segoe UI, Roboto, sans-serif">Industrial & Home Generators</text>
+</svg>
